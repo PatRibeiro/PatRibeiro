@@ -6,8 +6,8 @@ Olá!! Eu sou a Patrícia Ribeiro
 
 <div align="center">
 		<a href="https://github.com/patribeiro">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=patribeiro&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patribeiro&layout=compact&langs_count=7&theme=white"/>
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=patribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patribeiro&layout=compact&langs_count=7&theme=dracula"/>
     
   
 ##
