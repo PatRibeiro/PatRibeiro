@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá , eu sou a Patrícia Ribeiro 
 
-<!--
-**PatRibeiro/PatRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently  em transição de carreira para área de tecnologia.  Estou desenvolvendo um e-commerce, atividade do curso de Front End da Alura.
+- 🌱 I’m currently learning  JavaScript,  HTML5, CSS3
+- 📫 Como chegar até mim:  patriciaribeiro554@gmail.com,  https://www.linkedin.com/in/patricia-ribeiro-b34408258/ , PattyRibeiro#8069  (Discord)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+		<a href="https://github.com/patribeiro">
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=patribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patribeiro&layout=compact&langs_count=7&theme=dracula"/>
+    
+   
+		</div>
+##
+         
+          
+© 2023 GitHub, Inc.
