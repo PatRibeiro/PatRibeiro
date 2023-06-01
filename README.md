@@ -3,7 +3,7 @@
 
 - 🔭 Estou estudando e desenvolvendo um e-commerce **Mi Au Pet Store**
 
-- 🌱 Estou estudando Front End **Javascript, CSS3,HTML5**
+- 🌱 Agora em Maio/2023 finalizei o curso de FrontEnd da empresa Alura, onde aprendi HTML5, CSS3, Javascript , Layouts Responsivos e React
 
 - 📫 Você consegue me contactar **patriciaribeiro554@gmail.com** 
 **Discord =>PattyRibeiro#8069**
