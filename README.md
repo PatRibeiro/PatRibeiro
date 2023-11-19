@@ -1,9 +1,9 @@
    <h1 align="center">Olá! Eu sou a Patrícia Ribeiro</h1>
 <h2 align="center">Estou em transição de carreira para a área de tecnologia.</h2>
 
-- 🔭 Estou estudando e desenvolvendo um e-commerce **Mi Au Pet Store**
+- 🔭 Estou estudando Bacharelado em Engenharia de Software na Unopar e fazendo um curso de Análise de Dados - parceria com a Cousera e Google. 
 
-- 🌱 Agora em Maio/2023 finalizei o curso de FrontEnd da empresa Alura, onde aprendi HTML5, CSS3, Javascript , Layouts Responsivos e React
+- 🌱 Em Maio/2023 finalizei o curso de FrontEnd da empresa Alura, onde aprendi HTML5, CSS3, Javascript , Layouts Responsivos e React. Em Outubro/2023 Finalizei os cursos de Banco de Dados SQL com MYSQL da Oracle e participei da Academia Google Cloud Computing Foundantion, foi uma experiência incrível!!
 
 - 📫 Você consegue me contactar **patriciaribeiro554@gmail.com** 
 **Discord =>PattyRibeiro#8069**
