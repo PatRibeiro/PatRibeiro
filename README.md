@@ -1,4 +1,4 @@
-   <h1 align="center">Olá! Eu sou a Patrícia Ribeiro</h1>
+   <h1 align="center">Olá! Eu sou a Patrícia Sousa</h1>
 <h2 align="center">Estou em transição de carreira para a área de tecnologia.</h2>
 
 - 🔭 Estou estudando Bacharelado em Engenharia de Software na Unopar e fazendo um curso de Análise de Dados - parceria com a Cousera e Google. 
